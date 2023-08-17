@@ -1,0 +1,64 @@
+{
+  "continentes": [
+    {
+      "id": 1,
+      "title": "Europa",
+      "description": "O continente mais antigo",
+      "img_src": "/europe.jpg",
+      "detail": {
+        "banner_src": "/europe_banner.jpg",
+        "summary": "A Europa, um dos continentes mais culturalmente ricos e diversificados do mundo, é uma fascinante mistura de tradições históricas e modernidade vibrante."
+      }
+    },
+    {
+      "id": 2,
+      "title": "América do norte",
+      "description": "O continente mais influente",
+      "img_src": "/north-america.jpg",
+      "detail": {
+        "banner_src": "/europe_banner.jpg",
+        "summary": "A América do Norte é um continente vasto e diversificado, compreendendo uma rica mistura de culturas, geografias e experiências."
+      }
+    },
+    {
+      "id": 3,
+      "title": "América do sul",
+      "description": "O continente mais encantador",
+      "img_src": "/south-america.jpg",
+      "detail": {
+        "banner_src": "/europe_banner.jpg",
+        "summary": "A América do Sul é um continente vibrante e repleto de contrastes, oferecendo uma riqueza de experiências culturais, naturais e históricas."
+      }
+    },
+    {
+      "id": 4,
+      "title": "Ásia",
+      "description": "O continente mais rico em cultura",
+      "img_src": "/asia.jpg",
+      "detail": {
+        "banner_src": "/europe_banner.jpg",
+        "summary": "A Ásia é um continente vasto e diversificado, repleto de uma riqueza incomparável em termos de cultura, história e paisagens. Abrangendo uma grande parte do globo, a Ásia é um mosaico de nações com tradições milenares e modernidade em constante evolução."
+      }
+    },
+    {
+      "id": 5,
+      "title": "África",
+      "description": "O continente mais rico em história",
+      "img_src": "africa.jpg",
+      "detail": {
+        "banner_src": "/europe_banner.jpg",
+        "summary": "A África é um continente de vasta beleza natural, rica cultura e história profunda, oferecendo uma experiência única para os viajantes. De safáris emocionantes nas savanas da África Oriental aos desertos impressionantes do norte, as paisagens são diversas e magníficas."
+      }
+    },
+    {
+      "id": 6,
+      "title": "Oceania",
+      "description": "O continente com mais ilhas",
+      "img_src": "/oceania.jpg",
+      "detail": {
+        "banner_src": "/europe_banner.jpg",
+        "summary": "A Oceania é um continente repleto de maravilhas naturais e culturais, situado entre o Oceano Pacífico e o Oceano Índico. Composta por ilhas fascinantes, como a Austrália, a Nova Zelândia e as ilhas do Pacífico Sul, a Oceania oferece uma variedade de experiências únicas."
+      }
+    }
+  ]
+}
