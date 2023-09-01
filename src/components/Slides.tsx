@@ -31,7 +31,7 @@ export default function Slides() {
       display="flex"
       alignItems="center"
       justifyContent="center"
-      marginX={{ md: "50px" }}
+      marginX={{ md: "6rem" }}
     >
       <Swiper
         cssMode={true}

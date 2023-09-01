@@ -26,7 +26,7 @@ const Header = () => {
           onClick={handleGoBack}
           aria-label="Go Back"
           position="absolute"
-          left="10px"
+          left={["10px", "80px"]}
         />
       )}
       <Image src="/Logo.svg" alt="Logo" boxSize={["81px", "184px"]} />

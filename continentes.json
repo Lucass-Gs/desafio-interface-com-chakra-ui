@@ -7,7 +7,33 @@
       "img_src": "/europe.jpg",
       "detail": {
         "banner_src": "/europe_banner.jpg",
-        "summary": "A Europa, um dos continentes mais culturalmente ricos e diversificados do mundo, é uma fascinante mistura de tradições históricas e modernidade vibrante."
+        "summary": "A Europa, um dos continentes mais culturalmente ricos e diversificados do mundo, é uma fascinante mistura de tradições históricas e modernidade vibrante.",
+        "countries": 60,
+        "languages": 20,
+        "cities": 50,
+        "top_cities": [
+          {
+            "id": 539,
+            "city": "Paris",
+            "country": "França",
+            "img": "https://viagemeturismo.abril.com.br/wp-content/uploads/2016/11/thinkstockphotos-4549879531.jpeg",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+          },
+          {
+            "id": 115,
+            "city": "Londres",
+            "country": "Reino Unido",
+            "img": "https://luniverstours.com/wp-content/uploads/2021/08/guia-brasileiro-em-londres-guia-em-londres-passeios-em-londres-1.jpeg",
+            "flag": "/bandeira_inglaterra.png"
+          },
+          {
+            "id": 47,
+            "city": "Roma",
+            "country": "Itália",
+            "img": "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/02/passagens-aereas-roma-capa2019-01.jpg",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+          }
+        ]
       }
     },
     {
@@ -16,8 +42,34 @@
       "description": "O continente mais influente",
       "img_src": "/north-america.jpg",
       "detail": {
-        "banner_src": "/europe_banner.jpg",
-        "summary": "A América do Norte é um continente vasto e diversificado, compreendendo uma rica mistura de culturas, geografias e experiências."
+        "banner_src": "/north-america.jpg",
+        "summary": "A América do Norte é um continente vasto e diversificado, compreendendo uma rica mistura de culturas, geografias e experiências.",
+        "countries": 60,
+        "languages": 20,
+        "cities": 50,
+        "top_cities": [
+          {
+            "id": 12,
+            "city": "Nova Iorque",
+            "country": "EUA",
+            "img": "https://www.segueviagem.com.br/wp-content/uploads/2021/12/Estados-Unidos-Nova-York-shutterstock_248799484.jpg",
+            "flag": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg"
+          },
+          {
+            "id": 56,
+            "city": "Los Angeles",
+            "country": "EUA",
+            "img": "https://www.rodamundo.tur.br/blog/wp-content/uploads/2017/09/Hollywwod-interc%C3%A2mbio-em-Los-Angeles.jpg",
+            "flag": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/05/bandeira-estados-unidos.jpg"
+          },
+          {
+            "id": 23,
+            "city": "Cidade do México",
+            "country": "México",
+            "img": "https://www.vounajanela.com/wp-content/uploads/2017/11/mexico-1050x599.jpg",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png"
+          }
+        ]
       }
     },
     {
@@ -26,8 +78,34 @@
       "description": "O continente mais encantador",
       "img_src": "/south-america.jpg",
       "detail": {
-        "banner_src": "/europe_banner.jpg",
-        "summary": "A América do Sul é um continente vibrante e repleto de contrastes, oferecendo uma riqueza de experiências culturais, naturais e históricas."
+        "banner_src": "/south-america.jpg",
+        "summary": "A América do Sul é um continente vibrante e repleto de contrastes, oferecendo uma riqueza de experiências culturais, naturais e históricas.",
+        "countries": 60,
+        "languages": 20,
+        "cities": 50,
+        "top_cities": [
+          {
+            "id": 43,
+            "city": "Rio de Janeiro",
+            "country": "Brasil",
+            "img": "https://www.civitatis.com/blog/wp-content/uploads/2022/10/panoramica-rio-janeiro-brasil.jpg",
+            "flag": "https://www.estudopratico.com.br/wp-content/uploads/2016/03/significado-da-bandeira-do-brasil.jpg"
+          },
+          {
+            "id": 10,
+            "city": "Cusco",
+            "country": "Peru",
+            "img": "https://classic.exame.com/wp-content/uploads/2017/11/thinkstockphotos-479493744.jpg?quality=70&strip=info&w=1024",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/2560px-Flag_of_Peru_%28state%29.svg.png"
+          },
+          {
+            "id": 536,
+            "city": "Gramado",
+            "country": "Brasil",
+            "img": "https://www.viagensmontreal.com/blog/wp-content/uploads/2022/02/o-que-fazer-em-gramado-e-canela.jpg",
+            "flag": "https://www.estudopratico.com.br/wp-content/uploads/2016/03/significado-da-bandeira-do-brasil.jpg"
+          }
+        ]
       }
     },
     {
@@ -36,8 +114,34 @@
       "description": "O continente mais rico em cultura",
       "img_src": "/asia.jpg",
       "detail": {
-        "banner_src": "/europe_banner.jpg",
-        "summary": "A Ásia é um continente vasto e diversificado, repleto de uma riqueza incomparável em termos de cultura, história e paisagens. Abrangendo uma grande parte do globo, a Ásia é um mosaico de nações com tradições milenares e modernidade em constante evolução."
+        "banner_src": "/asia.jpg",
+        "summary": "A Ásia é um continente vasto e diversificado, repleto de uma riqueza incomparável em termos de cultura, história e paisagens. Abrangendo uma grande parte do globo, a Ásia é um mosaico de nações com tradições milenares e modernidade em constante evolução.",
+        "countries": 60,
+        "languages": 20,
+        "cities": 50,
+        "top_cities": [
+          {
+            "id": 132,
+            "city": "Bangkok",
+            "country": "Tailândia",
+            "img": "https://a.cdn-hotels.com/gdcs/production172/d459/3af9262b-3d8b-40c6-b61d-e37ae1aa90aa.jpg",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png"
+          },
+          {
+            "id": 232,
+            "city": "Tóquio",
+            "country": "Japão",
+            "img": "https://blog.hurb.com/wp-content/uploads/2020/04/toquio-1140x675.png",
+            "flag": "https://rotasdeviagem.com.br/wp-content/uploads/2021/08/bandeira-do-japao.jpg"
+          },
+          {
+            "id": 434,
+            "city": "Isntambul",
+            "country": "Turquia",
+            "img": "https://turismo.eurodicas.com.br/wp-content/uploads/2019/07/mesquita-azul-em-istambul-1.jpg",
+            "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/320px-Flag_of_Turkey.svg.png"
+          }
+        ]
       }
     },
     {
@@ -46,8 +150,34 @@
       "description": "O continente mais rico em história",
       "img_src": "africa.jpg",
       "detail": {
-        "banner_src": "/europe_banner.jpg",
-        "summary": "A África é um continente de vasta beleza natural, rica cultura e história profunda, oferecendo uma experiência única para os viajantes. De safáris emocionantes nas savanas da África Oriental aos desertos impressionantes do norte, as paisagens são diversas e magníficas."
+        "banner_src": "/africa.jpg",
+        "summary": "A África é um continente de vasta beleza natural, rica cultura e história profunda, oferecendo uma experiência única para os viajantes. De safáris emocionantes nas savanas da África Oriental aos desertos impressionantes do norte, as paisagens são diversas e magníficas.",
+        "countries": 60,
+        "languages": 20,
+        "cities": 50,
+        "top_cities": [
+          {
+            "id": 432,
+            "city": "Joanesburgo",
+            "country": "África do Sul",
+            "img": "https://www.livemoretravelmore.com/wp-content/uploads/2020/09/20180625_SouthAfrica_Johannesburg_0010.jpg",
+            "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAA21BMVEUAek3eODEAI5X///8AAAD/thIAd0ndKSBHkW8ABJAAdVAAd0//uQv/uxL/vhMAekwAbjkAHpTeMywAdEL7sxLbFgXOpyby9/X1rxEAbji50sZPlXXEjA7XqiPv9fPcJBqEkjtiRge2gg3erCBUPAZ3jj6vzL5pSwgcfUtbQQY+jWpinoL43t3bFADgRkDsnpz66OfhUk3uqqiJkzqkxbWUljfo6vM3R6GTmsfd4O0iNpuEjMAXL5kAC5Bxp43209Lrk5HgS0XiWlWufAwzgEkwQZ+SmcZxjT/U1+kmgy+MAAAE00lEQVR4nO3diVoTMRSG4XA6LaBV0CqyuIsi4r6g4K643P8VOVBaO03SyTpJzjn/FdDveZ8UykxHiJYNvvRU+7q0vIR1bUmEGI22lVW+Xb+a+oePtPYmQqwfKKM8fY6UikkTMaBFxagJMSqGTUhRMW1CiYp5EzpULJqcUrlBgYpVEz2VZ5io2DWhQcW2CYVTxboJASoOTdCfKi5NsFNxa6Kl8gLDqeLYBDUV5yaIqbg30VP5XjgVnyZYqXg1qansKKm8LJqKuOgXRUul4N9VxIZvFXxUxLD/8EIkKqWeKqLfHzKV5uomfabS3GmTUyprTGW6cZOYVMp7AzpvwlRmNm0Sgsr6IxSnyv8mTGWy2SYxqZR0qjSaRKVyJ/VLNd5ckyBvQKWfKvNNmIqqCb8Bic1LiirRqLwqgYqobl5mKs2Jqtq7pqJyiy6VukmlpNIfxqLyOncqZ00iUVkrlMq4iYZK/y5JKpMm0ais3C6OyrQJU5lupomOymNqVGab6N6AqFFpNqnuMRWpCVNZUjRhKoomTEXVpGsqPzKjomwSj8rbEqhompCmomsSjcpW/lT0TehSWdBER+UN9lNlYZNqPxKVJ1lTWdykqu4TpNLWhCKV1iYEqRg0qfaV/wN64EtlpKWynHYmTbqmknpmTTqmkniGTaJR0fxam3TGTSJRERlSMW9C51SxaULlVLFqQuRUsWxC4lSxbULhVLFvUu1ip+LQBP2p4tQEORW3Jjoq77yvrV3JYK5NYlEZZDDnJrGo5DD3JrGopJ9HE7RUvJroqJyUTcWvSVX9REjFtwnGU8W7CUIqAZqgO1VCNMFGJUwTXFQCNUFFJVgTRFTCNcFDJWQTLFSCNkFCJXCTmsqweCqhm1TVpkrK8CT1C7VY6CK7yiSknfB5Mj9+35GG5WO3cEWQIBEBm2BBImL/XVzmp21hkiBCIqJ+zlYmEhGkCS4kgj+3Vy0OEt9rUdLOr0iky9sSj5HIYyTyGIm8zJCkvkbpdGGvZ/O+9HG0k/pithXX69lwX03N18fKc2iivpMU0d0Z2VxvnwuSnsN9GZ3ebpxmedy/k9FNGT3b+7wIIOnx/YCqmTeJ9XUomSHpWTTp9huWks6wSbffmZN4Zk0IIemZNekWyeH71cQzaNItkg+rVyDxWpt0jiR1kfYm3X73YwZIoK0JQSTQ0oQiEljYpNuvp84FCSxqQhQJ6JuQRQLaJnSRgKYJZSSgbkIaCaiadPs4nsNfmSEBRZNun5qRHxKQmjASmG+ifrYXKSTQbKJGEusZcJkigUaTbh8AlysSmGnCSKZb9Dwvkkhg0mSv3yWSo5yRwHkTRtKYYCTSoj1vVPMU4+yR1Ov2ubQFIKkX5/nFGiS/C0ACqibDDREJyXEJSEBuEgLJdslIQGoS7yQpBQnMNWEkZxMNJNRPkvEEI5EmGIk0MUHyh5FMJkIhOUCCBMZNGElzgpFIE4xEmmAk0nyLoENSz6+I2EKHBDyb6JB8LBgJ+DXBd5KMx0jkeSBRFjk6/pz6JXmPkcgLi+RT+UjArQlqJODURIPkLw4k4NAEOxKwb4IeCdg2GeFHApZNKCABqyY0kIBNEyJIwLwJGSRg3GSLDBIwbEIJCZg1IYUETJqMBqSQgEGTwRc1EkCKpN4/JxrmwncUYN8AAAAASUVORK5CYII="
+          },
+          {
+            "id": 163,
+            "city": "Cidade do Cabo",
+            "country": "África do Sul",
+            "img": "https://www.infoescola.com/wp-content/uploads/2010/05/cidade-do-cabo_92510755.jpg",
+            "flag": "data:image/png;base64,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"
+          },
+          {
+            "id": 623,
+            "city": "Casablanca",
+            "country": "Marrocos",
+            "img": "https://images.contentstack.io/v3/assets/blt00454ccee8f8fe6b/blt55ee7b6e47524da4/60ab221ab29743655f632fef/UK_Casablanca_Morocco_Header.jpg",
+            "flag": "https://geo5.net/imagens/bandeira-de-marrocos-2000px.png"
+          }
+        ]
       }
     },
     {
@@ -56,8 +186,34 @@
       "description": "O continente com mais ilhas",
       "img_src": "/oceania.jpg",
       "detail": {
-        "banner_src": "/europe_banner.jpg",
-        "summary": "A Oceania é um continente repleto de maravilhas naturais e culturais, situado entre o Oceano Pacífico e o Oceano Índico. Composta por ilhas fascinantes, como a Austrália, a Nova Zelândia e as ilhas do Pacífico Sul, a Oceania oferece uma variedade de experiências únicas."
+        "banner_src": "/oceania.jpg",
+        "summary": "A Oceania é um continente repleto de maravilhas naturais e culturais, situado entre o Oceano Pacífico e o Oceano Índico. Composta por ilhas fascinantes, como a Austrália, a Nova Zelândia e as ilhas do Pacífico Sul, a Oceania oferece uma variedade de experiências únicas.",
+        "countries": 60,
+        "languages": 20,
+        "cities": 50,
+        "top_cities": [
+          {
+            "id": 775,
+            "city": "Londres",
+            "country": "Reino Unido",
+            "img": "https://www.civitatis.com/blog/wp-content/uploads/2022/10/panoramica-rio-janeiro-brasil.jpg",
+            "flag": "/bandeira_inglaterra.png"
+          },
+          {
+            "id": 78,
+            "city": "Londres",
+            "country": "Reino Unido",
+            "img": "https://www.civitatis.com/blog/wp-content/uploads/2022/10/panoramica-rio-janeiro-brasil.jpg",
+            "flag": "/bandeira_inglaterra.png"
+          },
+          {
+            "id": 94,
+            "city": "Londres",
+            "country": "Reino Unido",
+            "img": "https://www.civitatis.com/blog/wp-content/uploads/2022/10/panoramica-rio-janeiro-brasil.jpg",
+            "flag": "/bandeira_inglaterra.png"
+          }
+        ]
       }
     }
   ]
